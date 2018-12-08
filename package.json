@@ -1,0 +1,10 @@
+{
+  "name": "warlock-patches",
+  "version": "0.1.0-alpha",
+  "author": "sides",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/warlockbrawl.com/warlock-patches.git"
+  },
+  "main": "index.js"
+}
